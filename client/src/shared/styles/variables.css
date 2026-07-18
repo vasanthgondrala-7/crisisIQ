@@ -1,0 +1,28 @@
+:root {
+  --background: #07111f;
+  --surface: #0d1728;
+  --surface-secondary: #111d31;
+  --sidebar: #0b1524;
+
+  --border: rgba(255,255,255,.08);
+
+  --primary: #3b82f6;
+  --primary-soft: rgba(59,130,246,.15);
+
+  --danger: #ef4444;
+  --warning: #f59e0b;
+  --success: #22c55e;
+  --info: #3b82f6;
+
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+
+  --shadow-card:
+    0 10px 30px rgba(0,0,0,.30);
+
+  --radius-lg: 20px;
+  --radius-xl: 24px;
+
+  --transition: .25s ease;
+}

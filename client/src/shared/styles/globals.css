@@ -1,0 +1,12 @@
+body{
+  background:
+    radial-gradient(circle at top,#13233c 0%,#08101c 35%,#050b15 100%);
+  color:#fff;
+  font-family:Inter,system-ui,sans-serif;
+  line-height:1.5;
+  overflow:hidden;
+}
+
+.leaflet-container {
+  z-index: 0 !important;
+}
