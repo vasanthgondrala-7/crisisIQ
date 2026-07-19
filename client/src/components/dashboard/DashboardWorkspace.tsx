@@ -15,7 +15,7 @@ function DashboardWorkspace() {
       <IncidentQueue
         incidents={incidents}
         selectedId={selectedIncident.id}
-        onSelect={setSelectedIncident}
+        onSelect={(incident) => setSelectedIncident(incident)}
       />
 
       <AIPanel
